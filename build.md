@@ -17,3 +17,5 @@ Building a portfolio as a technical writer is an important step in becoming a mo
 6. Seek feedback: Ask other technical writers and contributors for feedback on your work and use their feedback to improve your writing and build your portfolio.
 
 In summary, to build a portfolio as a technical writer and become more attractive to open source projects, you can choose a niche, find projects to work on, contribute to open source projects, create a website or blog, share your work on social media, and seek feedback from others.
+
+See also: [3. Find](find.md)

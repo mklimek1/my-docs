@@ -10,3 +10,5 @@ Technical writers can make money on open-source projects in several ways, includ
 5. Writing and selling technical books or courses: Technical writers can write books or create online courses on topics related to open-source software and sell them to the public. These resources can be valuable to open-source developers, users, and enthusiasts.
 Key takeaways
 Technical writers can make money on open-source projects by working for companies that use or contribute to open-source projects, working as freelance technical writers, contributing to open source projects as volunteers, participating in open source programs, or writing and selling technical books or courses.
+
+See also: [8. Collaborate](collaborate.md)

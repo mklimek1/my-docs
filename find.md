@@ -27,3 +27,5 @@ To conclude, technical writers can find and identify open source projects by bro
 ### Key takeaways
 
 In summary, Google Summer of Code, Outreachy, Mozilla Open Leaders, and OpenHatch are some of the resources that technical writers’ beginners can explore to find open-source projects and opportunities. It's important to note that the availability of these programs and opportunities may vary from year to year, and interested individuals should check their websites for the latest information.
+
+See also: [4. Apply](apply.md)

@@ -18,3 +18,5 @@ GitHub will prompt you to create a pull request once you have pushed your change
 | **Information**: Git LFS is an extension for large file storage, developed by Atlassian, GitHub, and several other open-source contributors. By downloading appropriate versions of large files slowly, it reduces the impact of large files in your repository.|
 
 You may refer to the documentation provided on [how to install git-lfs](<https://docs.github.com/en/repositories/working-with-files/managing-large-files/installing-git-large-file-storage> "How to install git-lfs").
+
+See also:[6. Choose](choose.md)

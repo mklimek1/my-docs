@@ -12,3 +12,5 @@ Despite these challenges, working on open-source projects as a technical writer 
 Another advantage is the opportunity to learn new technologies, tools, and techniques. Open-source projects often involve cutting-edge technologies and development practices that can be challenging and exciting to work with. Technical writers can use their involvement in open-source projects to develop new skills, gain experience with new tools, and enhance their professional portfolio.
 
 Working on open-source projects as a technical writer presents both challenges and opportunities. To be successful in this role, technical writers must be self-directed, able to manage their time effectively, and skilled in collaborating with a distributed team. The benefits of working with a dedicated community of contributors and the opportunity to learn new technologies and techniques make open-source projects an exciting and rewarding area for technical writers to explore.
+
+See also: [12. Stay on track](stay.md)

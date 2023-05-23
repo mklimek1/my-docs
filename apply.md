@@ -19,3 +19,5 @@ First, you'll want to find a project on GitHub you intend to contribute to. To s
 ### Key takeaways
 
 In summary, it is important to search for a project of one’s interest, as one of the main advantages of working for an OS software project is this flexibility and ability to fulfil oneself through the project.
+
+See also: [5. Fork](fork.md)

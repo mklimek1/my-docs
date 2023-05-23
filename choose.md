@@ -13,3 +13,5 @@ There are many tools that are popular among open-source technical writers, and t
 ### Key takeaways
 
 In summary, open-source technical writers use a variety of tools, including Markdown editors, version control systems, documentation generators, graphic design tools, translation management tools, and content management systems, to create and manage technical documentation for open-source projects.
+
+See also: [7. Earn](earn.md)
