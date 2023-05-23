@@ -19,4 +19,4 @@ GitHub will prompt you to create a pull request once you have pushed your change
 
 You may refer to the documentation provided on [how to install git-lfs](<https://docs.github.com/en/repositories/working-with-files/managing-large-files/installing-git-large-file-storage> "How to install git-lfs").
 
-See also:[6. Choose](choose.md)
+See also: [6. Choose](choose.md)
