@@ -21,3 +21,5 @@ Here is a project plan that outlines how technical writers can contribute to ope
 ### Key takeaways
 
 In summary, technical writers can contribute to open source projects by creating and maintaining documentation that helps users understand and use the software. By following the project plan outlined above, technical writers can make a significant and valuable contribution to the success of an open source project.
+
+See also: [2. Build](build.md)
