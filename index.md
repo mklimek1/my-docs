@@ -4,7 +4,7 @@ Technical writers can make valuable contributions to open source projects by cre
 
 Here’s how one may approach being a Technical Writer in an OSS projects
 
-## 1. Plan [Plan](plan.md)
+[## 1. Plan](plan.md)
 
 ## 2. Build
 
