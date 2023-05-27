@@ -38,13 +38,13 @@ How easy is it for your users to navigate and search your documentation? Can the
 ## How to Test Technical Documentation Usability?
 You can choose one of the few echniques or apply more than one to perform documentation usability testing. 
 
-# Paraphrase Testing
+### Paraphrase Testing
 Paraphrase testing is when you ask documentation users to repeat your documentation back to you in their own words, to check that they understand it. Testers go through your documentation section by section to give their feedback, and this also tells you whether you have packed too much information into a sentence or paragraph. If users can’t repeat your documentation back to you, then you need to improve comprehension. Paraphrase testing is a very thorough way to test your documentation.
 
-# Plus-Minus Testing
+### Plus-Minus Testing
 Plus-minus testing uses pluses and minuses that your testers mark against particular sections of your documentation to convey whether they had a positive or negative reading experience. Plus-minus testing reveals the users’ emotional reactions have to your documentation and then the reasons for their ratings are explored in individual interviews. It can also tell you any information that you need to add or subtract in your documentation based on user feedback.
 
-# Task-Based Testing
+### Task-Based Testing
 Just as the name says, task-based testing determines how easy it is for users to find and use information to complete specific tasks. This approach works well for documentation that isn’t intended to be read from beginning to end, such as user guides and manuals. You should examine the journey that users take from the start and the path they follow to achieve their goal. If users are unsuccessful at finding information, you know that your documentation needs some work.
 
 ## Best Practices for Testing Documentation
