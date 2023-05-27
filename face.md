@@ -1,6 +1,5 @@
 # 11. Face
 
-Challenges and opportunities you may encounter when working for Open Source
 Working on open-source projects as a technical writer presents both challenges and opportunities.
 
 One of the main challenges is the need to be self-directed and manage your time effectively. As an open-source technical writer, you may not have a manager or team leader guiding your work or setting deadlines. This means that you need to be able to prioritize tasks, set goals, and manage your time effectively to ensure that you are meeting the project's needs and contributing to the community in a meaningful way.
