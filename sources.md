@@ -19,3 +19,5 @@
 9. <https://www.everythingtechnicalwriting.com/freelance-technical-writing/>
 
 10. <https://levelup.gitconnected.com/10-websites-that-pay-you-to-start-your-technical-writing-journey-b04ab2eb6f7e>
+
+11. <https://document360.com/blog/test-documentation-usability/>
