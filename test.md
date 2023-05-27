@@ -49,16 +49,16 @@ Just as the name says, task-based testing determines how easy it is for users to
 
 ## Best Practices for Testing Documentation
 
-# Test with Real Users
+### Test with Real Users
 Before you conduct your documentation usability testing, you should have a clear picture of who your documentation is aimed at. Real users are unlikely to have prior knowledge of your product so testing with them is vital. Insiders from the company often have valuable insight but your documentation must be targeted at real users, in order to see how your documentation will play out in real life.
 
-# Leave Enough Time for Testing
+### Leave Enough Time for Testing
 In the rush to get a product ready for market, documentation often gets left on the backburner. Make sure your definition of complete is reached only after you have conducted documentation testing, and not before. All teams should be educated on the importance of testing the documentation, without which the product risks being a failure with its target users.
 
-# Analyze Your Results
+### Analyze Your Results
 Have a system for analyzing the results of your documentation testing. This means that when you receive your results, you should effectively apply the feedback you collect to make positive changes. Don’t be disheartened if users find your documentation difficult to use – you have learned something for next time.
 
-# Know What You Want to Aim for
+### Know What You Want to Aim for
 When testing your documentation, you need to have a goal for your content so you can recognize when you have reached it. One example of a goal might be making your documentation more accessible for your users. When you know what you want to aim for, you will be able to select tests that provide relevant insight into your progress.
 
 
