@@ -1,6 +1,6 @@
 # How Technical Writers can contribute to Open Source Software projects
 
-Technical writers can make valuable contributions to open source projects by creating and maintaining documentation that helps developers and users understand how to use the software. A well-written and comprehensive documentation makes a significant difference in the success of an open source project.
+Technical writers can make valuable contributions to open source projects by creating and maintaining documentation that helps developers and users understand how to use the software. A well-written and comprehensive documentation makes a significant difference in the success of an open source project. 
 
 Here’s how one may approach being a Technical Writer in an OSS projects
 
@@ -8,7 +8,7 @@ Here’s how one may approach being a Technical Writer in an OSS projects
 
 Here is a project plan that outlines how technical writers can contribute to open source projects:
 
-1. Identify the Project: Technical writers should research and identify an open source project that aligns with their interest and experience. It's important to choose a project that has a dedicated community, active development, and documentation that needs improvement.
+1. Identify the Project: Technical writers should research and identify an open source project that aligns with their interest and experience. It's important to choose a project that has a dedicated community, active development, and documentation that needs improvement. Some of the projects that includes technical writing as a part essential for their developemt and are willing to accept Technical Writers's help are [machinetranslate.org.](url), [Google Season of Docs]([url] or [Mozilla](url) 
 
 2. Understand the Project: Before diving into the documentation, technical writers should familiarize themselves with the project's goals, architecture, features, and user personas. Understanding the project in depth will help writers create documentation that meets the needs of the intended audience.
 
@@ -20,7 +20,7 @@ Here is a project plan that outlines how technical writers can contribute to ope
 
 6. Review and Edit: Once the documentation is complete, technical writers should review and edit it to ensure that it meets the project's standards and adheres to industry best practices. They should also ensure that the documentation is consistent in terms of tone, style, and formatting.
 
-7. Publish and Maintain: After the documentation is reviewed and edited, technical writers should publish it on the project's website and make it easily accessible to users. They should also maintain the documentation by updating it regularly to reflect changes in the software and feedback from users.
+7. Publish and Maintain: After the documentation is reviewed and edited, technical writers should publish it on the project's website. They should also maintain the documentation by updating it regularly to reflect changes in the software and feedback from users.
 
 8. Promote the Documentation: Finally, technical writers should promote the documentation to the project community, social media, and relevant forums to increase its visibility and reach. They should also encourage users to provide feedback and suggest improvements to the documentation.
 
