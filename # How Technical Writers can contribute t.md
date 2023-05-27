@@ -66,7 +66,7 @@ To conclude, technical writers can find and identify open source projects by bro
 
 ## The subjective worth taking a look at open source project lists
 
-1. [Google Summer of Code](https://summerofcode.withgoogle.com/ "Google Summer of Code"): Google Summer of Code is an annual program that offers paid internships to students to work on open-source projects. Technical writers can participate in this program to gain hands-on experience in open-source documentation projects. The program typically opens for applications in the first quarter of the year, and the application deadline is usually in late March. Check out the [Duck Duck Go](https://duckduckgo.com "The best search engine for privacy").
+1. [Google Summer of Code](https://summerofcode.withgoogle.com/ "Google Summer of Code"): Google Summer of Code is an annual program that offers paid internships to students to work on open-source projects. Technical writers can participate in this program to gain hands-on experience in open-source documentation projects. The program typically opens for applications in the first quarter of the year, and the application deadline is usually in late March. 
 
 2. [Outreachy](https://www.outreachy.org/ "Outreachy"): Outreachy is a global program that provides internships and mentorship to people from underrepresented groups in tech to work on open-source projects. Technical writers can participate in this program to gain experience in writing technical documentation for open-source projects. The program typically opens for applications in the first quarter of the year, and the application deadline is usually in late March.
 
