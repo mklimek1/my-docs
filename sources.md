@@ -21,3 +21,5 @@
 10. <https://levelup.gitconnected.com/10-websites-that-pay-you-to-start-your-technical-writing-journey-b04ab2eb6f7e>
 
 11. <https://document360.com/blog/test-documentation-usability/>
+
+12. <https://www.uxmatters.com/mt/archives/2020/05/how-to-test-the-usability-of-documents.php>
