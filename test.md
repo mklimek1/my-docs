@@ -35,27 +35,30 @@ You should check whether your glossary of terms is accurate and if it contains a
 8. Navigation and Search
 How easy is it for your users to navigate and search your documentation? Can they quickly find what they need, or are they prone to giving up before they locate the right results? It doesn’t matter how good your documentation is if users are cannot make use of navigation and search. Navigation allows your users to explore your documentation while search takes them directly to the right page or section. Search should be sensitive to typos and variation in search terms.
 
-How to Test Technical Documentation Usability?
-Paraphrase Testing
+## How to Test Technical Documentation Usability?
+You can choose one of the few echniques or apply more than one to perform documentation usability testing. 
+
+# Paraphrase Testing
 Paraphrase testing is when you ask documentation users to repeat your documentation back to you in their own words, to check that they understand it. Testers go through your documentation section by section to give their feedback, and this also tells you whether you have packed too much information into a sentence or paragraph. If users can’t repeat your documentation back to you, then you need to improve comprehension. Paraphrase testing is a very thorough way to test your documentation.
 
-Plus-Minus Testing
+# Plus-Minus Testing
 Plus-minus testing uses pluses and minuses that your testers mark against particular sections of your documentation to convey whether they had a positive or negative reading experience. Plus-minus testing reveals the users’ emotional reactions have to your documentation and then the reasons for their ratings are explored in individual interviews. It can also tell you any information that you need to add or subtract in your documentation based on user feedback.
 
-Task-Based Testing
+# Task-Based Testing
 Just as the name says, task-based testing determines how easy it is for users to find and use information to complete specific tasks. This approach works well for documentation that isn’t intended to be read from beginning to end, such as user guides and manuals. You should examine the journey that users take from the start and the path they follow to achieve their goal. If users are unsuccessful at finding information, you know that your documentation needs some work.
 
-Best Practices for Testing Documentation
-Test with Real Users
+## Best Practices for Testing Documentation
+
+# Test with Real Users
 Before you conduct your documentation usability testing, you should have a clear picture of who your documentation is aimed at. Real users are unlikely to have prior knowledge of your product so testing with them is vital. Insiders from the company often have valuable insight but your documentation must be targeted at real users, in order to see how your documentation will play out in real life.
 
-Leave Enough Time for Testing
+# Leave Enough Time for Testing
 In the rush to get a product ready for market, documentation often gets left on the backburner. Make sure your definition of complete is reached only after you have conducted documentation testing, and not before. All teams should be educated on the importance of testing the documentation, without which the product risks being a failure with its target users.
 
-Analyze Your Results
+# Analyze Your Results
 Have a system for analyzing the results of your documentation testing. This means that when you receive your results, you should effectively apply the feedback you collect to make positive changes. Don’t be disheartened if users find your documentation difficult to use – you have learned something for next time.
 
-Know What You Want to Aim for
+# Know What You Want to Aim for
 When testing your documentation, you need to have a goal for your content so you can recognize when you have reached it. One example of a goal might be making your documentation more accessible for your users. When you know what you want to aim for, you will be able to select tests that provide relevant insight into your progress.
 
 
