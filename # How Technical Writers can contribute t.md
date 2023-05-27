@@ -8,7 +8,7 @@ Here’s how one may approach being a Technical Writer in an OSS projects
 
 Here is a project plan that outlines how technical writers can contribute to open source projects:
 
-1. Identify the Project: Technical writers should research and identify an open source project that aligns with their interest and experience. It's important to choose a project that has a dedicated community, active development, and documentation that needs improvement. Some of the projects that includes technical writing as a part essential for their developemt and are willing to accept Technical Writers's help are [machinetranslate.org.](url), [[Google Season of Docs](url) or [Mozilla](url) 
+1. Identify the Project: Technical writers should research and identify an open source project that aligns with their interest and experience. It's important to choose a project that has a dedicated community, active development, and documentation that needs improvement. Some of the projects that includes technical writing as a part essential for their developemt and are willing to accept Technical Writers's help are [machinetranslate.org.](url), [Google Season of Docs](url) or [Mozilla](url) 
 
 2. Understand the Project: Before diving into the documentation, technical writers should familiarize themselves with the project's goals, architecture, features, and user personas. Understanding the project in depth will help writers create documentation that meets the needs of the intended audience.
 
