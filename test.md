@@ -1,6 +1,6 @@
 ## 10.Test
 
-### Usability testing
+### Usability testing and feedback
 
 Usability testing and feedback from users are essential for creating effective documentation. Technical writers should seek feedback from users to ensure that the documentation meets their needs and effectively communicates information. By gathering feedback, technical writers can identify areas where the documentation may be unclear or confusing and make adjustments to improve its effectiveness.
 Usability testing can also help technical writers identify areas where the software itself may be difficult to use or understand. By testing the documentation with real users, technical writers can identify common problems or areas of confusion and work with developers to improve the software's usability. This collaboration between technical writers and developers can ultimately lead to better software and a better user experience.
@@ -54,8 +54,6 @@ You’ll learn whether
 - The words you use are ones your participants understand
 - You’ll also hear whether participants use different words from those in the document.
 
-
-
 ### Plus-Minus Testing 
 “Mark positives and negatives.” - This is the plus–minus testing technique that Dutch researchers Menno de Jong and Peter Jan Schellens devised.
 Plus-minus testing uses pluses and minuses that your testers mark against particular sections of your documentation to convey whether they had a positive or negative reading experience. Plus-minus testing reveals the users’ emotional reactions have to your documentation and then the reasons for their ratings are explored in individual interviews. It can also tell you any information that you need to add or subtract in your documentation based on user feedback.
@@ -90,5 +88,17 @@ Have a system for analyzing the results of your documentation testing. This mean
 ### Know What You Want to Aim for
 When testing your documentation, you need to have a goal for your content so you can recognize when you have reached it. One example of a goal might be making your documentation more accessible for your users. When you know what you want to aim for, you will be able to select tests that provide relevant insight into your progress.
 
+## Feedback 
+
+What is more, users' feedback refers to the personal viewpoints of customers regarding your documentation. It offers comprehensive insights into the influence of products, services, or overall business strategies on them. Users can express their thoughts on the usefulness of your documentation through comments, feedback, emojis, or "reactions." Consequently, user feedback serves as a means to emphasize the overall customer experience and level of satisfaction.
+
+### Ways to collect users feedback 
+1. Enable Customer Comments On Documentation
+2. Collect Emojis Feedback On Documentation 
+3. Provide Instant Answer Support via Chatbot
+4. Provide Email Surveys & Measure Result
+5. Monitor Your Social Share Channels
+
+See how providing feedback works with [BetterDocs Instant Answers](url)
 
 See also: [11. Face](face.md)
