@@ -1,6 +1,7 @@
 ## 5. Fork
 
-Next, you'll want to open the README and make sure you understand the instructions. Then, fork the repo by clicking on Fork located at the top right corner of your screen.
+When you contribute to a GitHub project, the most typical workflow is to fork the project. (Open the project README and make yourself familiar with the specific instructions in the very project.)
+To fork a repo, click on Fork located at the top right corner of your screen.
 (obrazek)
 Clone the forked repo in your local computer using the following command:
 git clone < LINK TO THE REPO >
@@ -13,10 +14,16 @@ When done push your changes on GitHub by using the following instructions:
 | git branch -M changes | creates a new branch |
 |git push -u origin changes | pushes the changes |
 
-GitHub will prompt you to create a pull request once you have pushed your changes to the cloned repository. Create the pull request and then wait for the maintainers to merge your changes into the main repository. In case you forked the project some time ago, ensure that you incorporate the upstream modifications into your local repository. If you come across a large file, you can install git-lfs if it is not already installed by running the command "brew install git-lfs".
+Take a look at [git cheat sheet](<https://education.github.com/git-cheat-sheet-education.pdf>) for more information
+
+GitHub will prompt you to create a pull request once you have pushed your changes to the cloned repository. Create the pull request and then wait for the maintainers to merge your changes into the main repository. In case you forked the project some time ago, ensure that you incorporate the upstream modifications into your local repository. 
+
+If you come across a large file, you can install git-lfs if it is not already installed by running the command "brew install git-lfs".
 
 | **Information**: Git LFS is an extension for large file storage, developed by Atlassian, GitHub, and several other open-source contributors. By downloading appropriate versions of large files slowly, it reduces the impact of large files in your repository.|
 
 You may refer to the documentation provided on [how to install git-lfs](<https://docs.github.com/en/repositories/working-with-files/managing-large-files/installing-git-large-file-storage> "How to install git-lfs").
+
+Alternatively, if you have troubles using Git, you can use [GitHub Desktop Client](<https://docs.github.com/en/desktop/installing-and-configuring-github-desktop/overview/getting-started-with-github-desktop>) which is an application that enables you to interact with GitHub using a GUI instead of the command line or a web browser.
 
 See also: [6. Choose](choose.md)
