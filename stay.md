@@ -28,7 +28,7 @@ Check also
 - https://techwhirl.com/
 - https://www.ihearttechnicalwriting.com/
 - https://idratherbewriting.com/
-- https://www.linkedin.com/groups/13705342/?showWelcomeNote=true
+- https://www.linkedin.com/groups/13705342/ 
 - https://medium.com/technical-writing-is-easy
 - https://writethedocs.slack.com/signup#/domain-signup
 
