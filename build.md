@@ -12,7 +12,7 @@ Building a portfolio as a technical writer is an important step in becoming a mo
 
 4. Create a website or blog: A website or blog is a great way to showcase your work as a technical writer. You can use it to share your writing samples, describe your experience, and provide links to your contributions to open-source projects. For inspiration, check [I'd Rather Be Writing](https://idratherbewriting.com)
 
-5. Share your work on social media: Social media platforms, such as LinkedIn [e.g. of a LinkedIn Technical Writing-oriented channel](https://www.linkedin.com/showcase/skills-technical-writing/posts/?feedView=all) and Twitter [e.g. Techwriterstribe](https://twitter.com/Techwriterstri1), can be powerful tools for networking and sharing your work as a technical writer. Share links to your website or blog, and engage with other writers and contributors in your niche.
+5. Share your work on social media: Social media platforms, such as LinkedIn e.g. [LinkedIn Technical Writing-oriented channel](https://www.linkedin.com/showcase/skills-technical-writing/posts/?feedView=all) and Twitter e.g. [Techwriterstribe](https://twitter.com/Techwriterstri1), can be powerful tools for networking and sharing your work as a technical writer. Share links to your website or blog, and engage with other writers and contributors in your niche.
 
 6. Seek feedback: Ask other technical writers and contributors for feedback on your work and use their feedback to improve your writing and build your portfolio.
 
