@@ -10,10 +10,10 @@ There are several ways for technical writers to find and identify open source pr
 
 4. Join Online Communities: Online communities like [Reddit](https://www.reddit.com/r/opensource/), [Stack Overflow](https://stackexchange.github.io/), and [Quora](https://www.quora.com/What-exactly-is-open-source-software) have dedicated spaces for open source discussions. Technical writers can join these communities to interact with developers, identify open source projects, and contribute to the community.
 
-5. Participate in Open Source Programs: Google Summer of Code, Outreachy, and OpenHatch are open source programs that offer paid internships and mentorship to students and beginners. Technical writers can participate in these programs to gain hands-on experience in open source projects, and contribute to their documentation. 
+5. Participate in Open Source Programs: Google Summer of Code, Outreachy, and OpenHatch are open source programs that offer paid internships and mentorship to students and beginners. Technical writers can participate in these programs to gain hands-on experience in open source projects, and contribute to their documentation. Check the section [The subjective worth taking a look at open source project list]()below.
 
 
-## The subjective worth taking a look at open source project lists
+## The subjective worth taking a look at open source project list
 
 1. [Google Summer of Code](https://summerofcode.withgoogle.com/ "Google Summer of Code"): Google Summer of Code is an annual program that offers paid internships to students to work on open-source projects. Technical writers can participate in this program to gain hands-on experience in open-source documentation projects. The program typically opens for applications in the first quarter of the year, and the application deadline is usually in late March. 
 
