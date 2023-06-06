@@ -2,7 +2,7 @@
 
 There are several ways for technical writers to find and identify open source projects that align with their interests and skills:
 
-1. Browse GitHub: [GitHub](https://github.com) is a popular platform for hosting open source projects. Technical writers can browse GitHub to discover open source projects that align with their interests, and explore their documentation to identify gaps and areas that need improvement.
+1. Browse GitHub: [GitHub](https://github.com){:target="_blank"} is a popular platform for hosting open source projects. Technical writers can browse GitHub to discover open source projects that align with their interests, and explore their documentation to identify gaps and areas that need improvement.
 
 2. Check Open Source Directories: There are several open source directories like [Open Source Directory](https://opensourcesoftwaredirectory.com/), [GitHub Explore](https://github.com/explore?new), and [Open Source Initiative](https://opensource.org/) that list thousands of open source projects. Technical writers can search these directories based on their interests, programming languages, and project type.
 
