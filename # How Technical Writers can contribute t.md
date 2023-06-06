@@ -1,6 +1,6 @@
 # How Technical Writers can contribute to Open Source Software projects
 
-Technical writers can make valuable contributions to open source projects by creating and maintaining documentation that helps developers and users understand how to use the software. A well-written and comprehensive documentation makes a significant difference in the success of an open source project. [Find out more about open-source projects in general](https://opensource.org/osd/)
+Technical writers can make valuable contributions to open source projects by creating and maintaining documentation that helps developers and users understand how to use the software. A well-written and comprehensive documentation makes a significant difference in the success of an open source project. [Find out more about open-source projects in general](https://opensource.org/osd/).
 
 Here’s how one may approach being a Technical Writer in an OSS projects
 
