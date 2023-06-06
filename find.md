@@ -17,11 +17,11 @@ There are several ways for technical writers to find and identify open source pr
 
 1. [Google Summer of Code](https://summerofcode.withgoogle.com/ "Google Summer of Code"): Google Summer of Code is an annual program that offers paid internships to students to work on open-source projects. Technical writers can participate in this program to gain hands-on experience in open-source documentation projects. The program typically opens for applications in the first quarter of the year, and the application deadline is usually in late March. 
 
-2. [Outreachy](https://www.outreachy.org/ "Outreachy"): Outreachy is a global program that provides internships and mentorship to people from underrepresented groups in tech to work on open-source projects. Technical writers can participate in this program to gain experience in writing technical documentation for open-source projects. The program typically opens for applications in the first quarter of the year, and the application deadline is usually in late March.
+2. [Outreachy](https://www.outreachy.org/ "Outreachy"): Outreachy is a global program that provides internships and mentorship to people from underrepresented groups in tech to work on open-source projects. Technical writers can participate in this program to gain experience in writing technical documentation for open-source projects. The program encourages applications to submit their applications at least 2-3 weeks before the Outreachy application deadline which usually takes place in January-February. 
 
 3. [Mozilla Open Leaders](https://foundation.mozilla.org/en/initiatives/mozilla-open-leaders/ "Mozilla Open Leaders"): Mozilla Open Leaders is a mentorship program that provides training and support to people who want to become open-source leaders. Technical writers can participate in this program to learn about open-source culture, community building, and documentation best practices. The program typically opens for applications in the second quarter of the year.
 
-4. [OpenHatch](http://openhatch.org/ "OpenHatch"): OpenHatch is a non-profit organization that helps newcomers find their way into the world of open source. Technical writers can find open-source projects on the OpenHatch website and contribute to their documentation. The website has a section called "Bitesize Tasks" that lists small tasks that beginners can work on to get started in open source.
+4. [OpenHatch](http://openhatch.org/ "OpenHatch"): OpenHatch is a non-profit organization that helps newcomers find their way into the world of open source. Technical writers can find open-source projects on the OpenHatch website and contribute to their documentation. 
 
 ### Key takeaways
 
