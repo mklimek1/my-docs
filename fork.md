@@ -16,7 +16,7 @@ When done push your changes on GitHub by using the following instructions:
 | git branch -M changes | creates a new branch |
 |git push -u origin changes | pushes the changes |
 
-Take a look at [git cheat sheet](<https://education.github.com/git-cheat-sheet-education.pdf>) for more information
+Take a look at [git cheat sheet](<https://education.github.com/git-cheat-sheet-education.pdf>) for more information.
 
 GitHub will prompt you to create a pull request once you have pushed your changes to the cloned repository. Create the pull request and then wait for the maintainers to merge your changes into the main repository. In case you forked the project some time ago, ensure that you incorporate the upstream modifications into your local repository. 
 
