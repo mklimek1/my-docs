@@ -22,7 +22,7 @@ Take a look at [git cheat sheet](<https://education.github.com/git-cheat-sheet-e
 
 GitHub will prompt you to create a pull request once you have pushed your changes to the cloned repository. Create the pull request and then wait for the maintainers to merge your changes into the main repository. In case you forked the project some time ago, ensure that you incorporate the upstream modifications into your local repository. 
 
-If you come across a large file, you can install git-lfs if it is not already installed by running the command "brew install git-lfs".
+If you come across a large file, you can install git-lfs if it is not already installed by running the command `brew install git-lfs`.
 
 | **Information**: Git LFS is an extension for large file storage, developed by Atlassian, GitHub, and several other open-source contributors. By downloading appropriate versions of large files slowly, it reduces the impact of large files in your repository.|
 
