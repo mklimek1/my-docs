@@ -1,6 +1,6 @@
 ## 4. Apply
 
-As the most popular Git repository hosting platform, [GitHub](http://www.github.com) hosts more than 300 million repositories with a global community of over 100 million developers. Because of that, the platform has become one of the best sources for free and useful software and web development resources and one of the best platforms where you can find join open source projects, and this is why GitHub is the main focus of this chapter. However, there are other repository hosting platforms such as [Bitbucket](https://bitbucket.org/) or [Perforce](https://www.perforce.com/)
+As the most popular Git repository hosting platform, [GitHub](http://www.github.com) hosts more than 300 million repositories with a global community of over 100 million developers. Because of that, the platform has become one of the best sources for free and useful software and web development resources and one of the best platforms where you can find join open source projects, and this is why GitHub is the main focus of this chapter. 
 
 ### Getting started
 
@@ -25,5 +25,9 @@ First, you'll want to find a project on GitHub you intend to contribute to. To s
 ### Key takeaways
 
 In summary, it is important to search for a project of one’s interest, as one of the main advantages of working for an OS software project is this flexibility and ability to fulfil oneself through the project. Don't worry if you'd feel lost at the beggining - people who are managing the project will help you get started with your tasks and responsibilities. 
+
+### Other platforms 
+
+There are other repository hosting platforms such as [Bitbucket](https://bitbucket.org/), [Perforce](https://www.perforce.com/) and many more which might be used in OSS projects, but [GitHub](http://www.github.com) is the most popular one.
 
 See also: [5. Fork](fork.md)
