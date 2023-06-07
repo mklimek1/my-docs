@@ -5,7 +5,9 @@ To fork a repo, click on Fork located at the top right corner of your screen.
 (obrazek)
 Clone the forked repo in your local computer using the following command:
 git clone < LINK TO THE REPO >
-You'll see the repo link when you click on the code dropdown. Once you've cloned it, open the directory containing your new fork and start adding your contribution.
+You'll see the repo link when you click on the code dropdown. 
+
+Once you've cloned it, open the directory containing your new fork and start adding your contribution.
 When done push your changes on GitHub by using the following instructions:
 
 | git status | displays which modifications have been staged|
