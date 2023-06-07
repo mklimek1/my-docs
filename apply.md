@@ -1,5 +1,11 @@
 ## 4. Apply
 
+As the most popular Git repository hosting platform, [GitHub](http://www.github.com) hosts more than 300 million repositories with a global community of over 100 million developers. Because of that, the platform has become one of the best sources for free and useful software and web development resources and one of the best platforms where you can find join open source projects, and this is why GitHub is the main focus of this chapter. However, there are other repository hosting platforms such as [Bitbucket](https://bitbucket.org/) or [Perforce](https://www.perforce.com/)
+
+### Getting started
+
+Prerequsite: You need to have your personal GitHub account. To find out about account creation, take a look at the [Getting started GitHub Guide](https://docs.github.com/en/get-started/onboarding/getting-started-with-your-github-account). 
+
 How to search for an open source project on GitHub?
 First, you'll want to find a project on GitHub you intend to contribute to. To search for open-source projects for technical writers on GitHub, follow these steps:
 
@@ -18,6 +24,6 @@ First, you'll want to find a project on GitHub you intend to contribute to. To s
 
 ### Key takeaways
 
-In summary, it is important to search for a project of one’s interest, as one of the main advantages of working for an OS software project is this flexibility and ability to fulfil oneself through the project.
+In summary, it is important to search for a project of one’s interest, as one of the main advantages of working for an OS software project is this flexibility and ability to fulfil oneself through the project. Don't worry if you'd feel lost at the beggining - people who are managing the project will help you get started with your tasks and responsibilities. 
 
 See also: [5. Fork](fork.md)
