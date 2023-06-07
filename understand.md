@@ -1,6 +1,6 @@
 # 9. Understand
 
-Role of documentation in software development process
+## Role of documentation in software development process
 
 Documentation plays a critical role in the software development process, and technical writers contribute significantly to its progress by providing clear and concise instructions for testing, deployment, and maintenance. Good documentation not only saves time and effort for developers and users but also enhances the overall quality of the software. Technical writers should understand the software development life cycle, including the different stages of development, testing, and deployment, and how documentation supports each stage.
 
