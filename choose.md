@@ -1,6 +1,6 @@
 ## 6. Choose
 
-# Tools. What tools are the most popular among open-source technical writers?
+## Tools. What tools are the most popular among open-source technical writers?
 There are many tools that are popular among open-source technical writers, and the choice of tools often depends on the specific project and the preferences of the writer. Here are some of the most popular tools used by open-source technical writers:
 
 1. [Markdown](https://www.markdownguide.org/) editors: Markdown is a simple and lightweight markup language that is widely used for writing documentation. Markdown editors, such as [Typora](https://typora.io/) (free) or [VSCode](https://code.visualstudio.com/) (free) make it easy to write and format Markdown documents.
