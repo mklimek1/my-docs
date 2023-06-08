@@ -12,6 +12,7 @@ There are several ways for technical writers to find and identify open source pr
 
 5. Participate in Open Source Programs: Google Summer of Code, Outreachy, and OpenHatch are open source programs that offer paid internships and mentorship to students and beginners. Technical writers can participate in these programs to gain hands-on experience in open source projects, and contribute to their documentation. Check the section [The subjective worth taking a look at open source project list](https://github.com/mklimek1/my-docs/blob/main/find.md#the-subjective-worth-taking-a-look-at-open-source-project-list) below.
 
+Back to [main page](index.md)
 
 ## The subjective worth taking a look at open source project list
 
