@@ -2,9 +2,9 @@
 
 There are several ways for technical writers to find and identify open source projects that align with their interests and skills:
 
-1. Browse GitHub: (<a href="https://github.com" target="_blank">GitHub</a>) is a popular platform for hosting open source projects. Technical writers can browse GitHub to discover open source projects that align with their interests, and explore their documentation to identify gaps and areas that need improvement. 
+1. Browse GitHub: [GitHub](https://github.com) is a popular platform for hosting open source projects. Technical writers can browse GitHub to discover open source projects that align with their interests, and explore their documentation to identify gaps and areas that need improvement. 
 
-2. Check Open Source Directories: There are several open source directories like [Open Source Directory](https://opensourcesoftwaredirectory.com/), [GitHub Explore](<a href="https://github.com/explore?new" target="_blank">), and [Open Source Initiative](https://opensource.org/) that list thousands of open source projects. Technical writers can search these directories based on their interests, programming languages, and project type.
+2. Check Open Source Directories: There are several open source directories like [Open Source Directory](https://opensourcesoftwaredirectory.com/), [GitHub Explore](https://github.com/explore?new), and [Open Source Initiative](https://opensource.org/) that list thousands of open source projects. Technical writers can search these directories based on their interests, programming languages, and project type.
 
 3. Attend Open Source Conferences and Meetups: Open source conferences and meetups are excellent places to network and discover open source projects. Technical writers can attend these events to learn about the latest trends, tools, and opportunities in the open source community. Check e.g. [Open Source Summit Europe](https://events.linuxfoundation.org/open-source-summit-europe/) or [SCaLE Conference](https://www.socallinuxexpo.org/scale/20x).
 
