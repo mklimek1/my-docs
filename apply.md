@@ -31,3 +31,5 @@ In summary, it is important to search for a project of one’s interest, as one 
 There are other repository hosting platforms such as [Bitbucket](https://bitbucket.org/), [Perforce](https://www.perforce.com/) and many more which might be used in OSS projects, but [GitHub](http://www.github.com) is the most popular one.
 
 See also: [5. Fork](fork.md)
+
+Back to [main page](index.md)
