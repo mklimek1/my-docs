@@ -12,3 +12,5 @@ When it comes to developers' documentation we can devide it to
 Documentation is also essential for users, esspecially new users who need to familiarize themselves with the product and project. Technical writers should understand the user's perspective, their goals, and their level of technical expertise, and create documentation that is accessible, inclusive, and easy to follow. Well-written documentation helps users to get up and running quickly, troubleshoot issues, and take advantage of the software's features and functionalities. Ultimately, good documentation improves the user experience, and thus enhances the overall success of the software.
 
 See also: [10. Test](test.md)
+
+Back to [main page](index.md)
