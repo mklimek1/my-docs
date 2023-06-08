@@ -31,3 +31,5 @@ You may refer to the documentation provided on [how to install git-lfs](<https:/
 Alternatively, if you have troubles using Git, you can use [GitHub Desktop Client](<https://docs.github.com/en/desktop/installing-and-configuring-github-desktop/overview/getting-started-with-github-desktop>) which is an application that enables you to interact with GitHub using a GUI instead of the command line or a web browser.
 
 See also: [6. Choose](choose.md)
+
+Back to [main page](index.md)
