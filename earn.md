@@ -16,3 +16,5 @@ Technical Writers may also try contributing to open-source projects as a volunte
 Technical writers can make money on open-source projects by working for companies that use or contribute to open-source projects, working as freelance technical writers, contributing to open source projects as volunteers, participating in open source programs, or writing and selling technical books or courses.
 
 See also: [8. Collaborate](collaborate.md)
+
+Back to [main page](index.md)
