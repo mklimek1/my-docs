@@ -24,3 +24,5 @@ Being a technical writer for open-source projects differs from being a technical
 3. Technical writers for open-source projects have to be more adaptable and able to work with a variety of tools and technologies, since open-source projects often use a range of programming languages and development environments. In a full-time job, technical writers are usually focused on documenting a single product or suite of products, and work with a more limited set of tools and technologies.
 
 Overall, being a technical writer for open-source projects requires a high degree of independence, adaptability, and self-motivation, as well as a passion for working collaboratively with a global community of developers and users.
+
+Back to [main page](index.md)
