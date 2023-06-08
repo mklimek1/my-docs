@@ -29,3 +29,5 @@ Back to [main page](index.md)
 To conclude, technical writers can find and identify open source projects by browsing GitHub, checking open source directories, attending open source conferences and meetups, joining online communities, and participating in open source programs. Once they have identified a project of their interest, they can familiarize themselves with the project's goals, architecture, and user personas, and evaluate its existing documentation to identify gaps and areas that need improvement. Google Summer of Code, Outreachy, Mozilla Open Leaders, and OpenHatch are some of the resources that technical writers’ beginners can explore to find open-source projects and opportunities. It's important to note that the availability of these programs and opportunities may vary from year to year, and interested individuals should check their websites for the latest information.
 
 See also: [4. Apply](apply.md)
+
+Back to [main page](index.md)
