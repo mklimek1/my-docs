@@ -33,3 +33,5 @@ Check also
 - [https://writethedocs.slack.com/signup#/domain-signup](https://writethedocs.slack.com/signup#/domain-signup)
 
 See also: [13. Consider](consider.md)
+
+Back to [main page](index.md)
