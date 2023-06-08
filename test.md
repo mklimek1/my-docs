@@ -102,3 +102,5 @@ What is more, users' feedback refers to the personal viewpoints of customers reg
 See how providing feedback works with [BetterDocs Instant Answers](url)
 
 See also: [11. Face](face.md)
+
+Back to [main page](index.md)
