@@ -1,3 +1,9 @@
+---
+layout: default
+title: 404
+nav_exclude: true
+---
+
 # How Technical Writers can contribute to Open Source Software projects
 
 Here’s how one may approach being a Technical Writer in an OSS projects
