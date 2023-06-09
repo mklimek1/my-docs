@@ -13,4 +13,6 @@ By considering these questions and others that are important to you, you can bet
 
 Being a technical writer in open-source projects sometimes requires being flexible, self-driven, clever, and full of ideas. On the one hand it gives one more freedom than regular 9-to-5 position, but on the other it requires more independency and perseverance. Open-source is also for people who like changes and are curious to learn new technologies.  Therefore – working in and open-source is not for everyone, because “with great power comes great responsibility”.
 
+Go to [Sources](sources.md)
+
 Back to [main page](index.md)
