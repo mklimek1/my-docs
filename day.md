@@ -25,4 +25,6 @@ Being a technical writer for open-source projects differs from being a technical
 
 Overall, being a technical writer for open-source projects requires a high degree of independence, adaptability, and self-motivation, as well as a passion for working collaboratively with a global community of developers and users.
 
+Go to [Questions](questions.md)
+
 Back to [main page](index.md)
