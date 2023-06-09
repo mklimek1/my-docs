@@ -1,6 +1,6 @@
 ---
 layout: default
-title: 1, Plan
+title: 1. Plan
 nav_order: 1
 ---
 
