@@ -1,3 +1,8 @@
+---
+layout: default
+title: 2.Build
+nav_order: 2
+---
 ## 2. Build
 
 Should technical writers build portfolio?
