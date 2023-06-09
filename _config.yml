@@ -18,7 +18,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Technical Writers' contribution to OSS
+title: Technical Writers in OSS
 email: monika.klimek02@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   Technical writers can make valuable contributions to open source projects
