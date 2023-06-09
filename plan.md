@@ -1,3 +1,9 @@
+---
+layout: default
+title: 1, Plan
+nav_order: 1
+---
+
 ## 1. Plan
 
 Here is a project plan that outlines how technical writers can contribute to open source projects:
