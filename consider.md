@@ -9,4 +9,6 @@ Here are some ideas and concepts about technical writing in open-source projects
 5. Discuss the challenges and opportunities of working on open-source projects as a technical writer, including the need to be self-directed and manage your time effectively, as well as the benefits of working with a dedicated community of contributors.
 6. Address the need for technical writers to stay up-to-date with industry best practices and emerging trends in software development and technical writing. This could include resources for ongoing professional development, such as conferences, webinars, and online courses.
 
+Go to [A regular day](https://mklimek1.github.io/my-docs/day.html)
+
 Back to [main page](index.md)
