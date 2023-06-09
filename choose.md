@@ -1,3 +1,8 @@
+---
+layout: default
+title: 6. Choose
+nav_order: 6
+---
 ## 6. Choose
 
 ## Tools. What tools are the most popular among open-source technical writers?

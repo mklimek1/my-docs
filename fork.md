@@ -1,3 +1,8 @@
+---
+layout: default
+title: 5. Fork
+nav_order: 5
+---
 ## 5. Fork
 
 When you contribute to a GitHub project, the most typical workflow is to fork the project, but open the project README and make yourself familiar with the specific instructions in the very project as these might slightly differ. 

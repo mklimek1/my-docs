@@ -1,3 +1,8 @@
+---
+layout: default
+title: Your Day
+nav_order: 14
+---
 # What does your day as an open-source writer look like?
 
 A typical day for a technical writer working for open-source projects can vary widely depending on the project's size, stage of development, and the writer's specific role within the project. Here are some daily activities typical for technical writers:

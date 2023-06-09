@@ -1,3 +1,8 @@
+---
+layout: default
+title: 11. Face
+nav_order: 11
+---
 # 11. Face
 
 Working on open-source projects as a technical writer presents both challenges and opportunities.

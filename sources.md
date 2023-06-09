@@ -1,3 +1,8 @@
+---
+layout: default
+title: Sources
+nav_order: 16
+---
 # Sources:
 
 1. <https://docs.github.com/en/repositories/working-with-files/managing-large-files/installing-git-large-file-storage>

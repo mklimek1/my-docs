@@ -1,4 +1,9 @@
-# 13.  Consider
+---
+layout: default
+title: 13. Consider
+nav_order: 13
+---
+# 13. Consider
 
 Here are some ideas and concepts about technical writing in open-source projects! Here are some suggestions for how you can enrich your content and identify any potential gaps:
 

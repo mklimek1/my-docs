@@ -1,6 +1,11 @@
-## 10.Test
+---
+layout: default
+title: 10. Test
+nav_order: 10
+---
+# 10. Test
 
-### Usability testing and feedback
+## Usability testing and feedback
 
 Usability testing and feedback from users are essential for creating effective documentation. Technical writers should seek feedback from users to ensure that the documentation meets their needs and effectively communicates information. By gathering feedback, technical writers can identify areas where the documentation may be unclear or confusing and make adjustments to improve its effectiveness.
 Usability testing can also help technical writers identify areas where the software itself may be difficult to use or understand. By testing the documentation with real users, technical writers can identify common problems or areas of confusion and work with developers to improve the software's usability. This collaboration between technical writers and developers can ultimately lead to better software and a better user experience.

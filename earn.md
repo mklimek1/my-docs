@@ -1,3 +1,8 @@
+---
+layout: default
+title: 7. Earn
+nav_order: 7
+---
 ## 7. Earn
 
 Technical writers can make money on open-source projects in several ways, including:

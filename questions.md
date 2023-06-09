@@ -1,4 +1,11 @@
-# Here are some questions to consider when deciding if you would be a good fit for open-source technical writing versus working as a technical writer for a software company
+---
+layout: default
+title: Questions
+nav_order: 15
+---
+# Questions
+
+## Here are some questions to consider when deciding if you would be a good fit for open-source technical writing versus working as a technical writer for a software company
 
 1. How much do you value collaboration and community involvement? If you enjoy working with a team and contributing to a project that has a wider impact, open-source technical writing may be a good fit for you. If you prefer working within the structure of a single company and contributing to internal projects, a full-time technical writing role at a software company may be a better fit.
 

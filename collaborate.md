@@ -1,3 +1,8 @@
+---
+layout: default
+title: 8. Collaborate
+nav_order: 8
+---
 ## 8. Collaborate
 
 ### Collaboration in Open Source

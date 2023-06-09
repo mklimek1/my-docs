@@ -1,3 +1,9 @@
+---
+layout: default
+title: 9. Understand
+nav_order: 9
+---
+
 # 9. Understand
 
 ## Role of documentation in software development process

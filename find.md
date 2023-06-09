@@ -1,3 +1,9 @@
+---
+layout: default
+title: 3. Find
+nav_order: 3
+---
+
 ## 3. Find
 
 There are several ways for technical writers to find and identify open source projects that align with their interests and skills:

@@ -1,3 +1,8 @@
+---
+layout: default
+title: 12. Stay on track
+nav_order: 12
+---
 # 12. Stay on track
 
 How to stay up-to-date?

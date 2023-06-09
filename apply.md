@@ -1,3 +1,8 @@
+---
+layout: default
+title: 4. Apply
+nav_order: 4
+---
 ## 4. Apply
 
 As the most popular Git repository hosting platform, [GitHub](http://www.github.com) hosts more than 300 million repositories with a global community of over 100 million developers. Because of that, the platform has become one of the best sources for free and useful software and web development resources and one of the best platforms where you can find join open source projects, and this is why GitHub is the main focus of this chapter. 
